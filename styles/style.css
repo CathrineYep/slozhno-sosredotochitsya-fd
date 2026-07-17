@@ -6,6 +6,7 @@
   background-image: var(--bg-image);
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
   color: var(--text-color);
   min-height: 100vh;
   max-width: 1024px;

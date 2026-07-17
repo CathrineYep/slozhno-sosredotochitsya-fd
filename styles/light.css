@@ -14,37 +14,6 @@
   --rec-display: none;
 }
 
-:root.theme-light .header__theme-menu-button,
-:root.theme-light .header_rec,
-:root.theme-light .section_title,
-:root.theme-light .card_title,
-:root.theme-light .card-text,
-:root.theme-light .link,
-:root.theme-light .header_description {
-  color: #353430;
-}
-
-:root.theme-light .header_rec::after {
-  background-color: #353430;
-}
-
-:root.theme-light .header__theme-menu-button_active {
-  border-color: #353430;
-}
-
-:root.theme-light .header__theme-menu-button:focus-visible {
-  border-bottom-color: #353430;
-}
-
-:root.theme-light .header__theme-menu-button:hover {
-  border-color: rgba(50, 49, 45, 0.4);
-}
-
-:root.theme-light .decorated-zone::before,
-:root.theme-light .decorated-zone::after {
-  border-color: #353430;
-}
-
 @media (prefers-color-scheme: light) {
   :root {
     --bg-color: #fff1f7;
@@ -54,36 +23,5 @@
     --title-color: #ffc2e6;
     --button-hover-color: rgba(50, 49, 45, 0.4);
     --rec-display: none;
-  }
-
-  :root .header__theme-menu-button,
-  :root .header_rec,
-  :root .section_title,
-  :root .card_title,
-  :root .card-text,
-  :root .link,
-  :root .header_description {
-    color: #353430;
-  }
-
-  :root .header_rec::after {
-    background-color: #353430;
-  }
-
-  :root .header__theme-menu-button_active {
-    border-color: #353430;
-  }
-
-  :root .header__theme-menu-button:focus-visible {
-    border-bottom-color: #353430;
-  }
-
-  :root .header__theme-menu-button:hover {
-    border-color: rgba(50, 49, 45, 0.4);
-  }
-
-  :root .decorated-zone::before,
-  :root .decorated-zone::after {
-    border-color: #353430;
   }
 }

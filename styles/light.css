@@ -12,6 +12,13 @@
   --title-color: #ffc2e6;
   --button-hover-color: rgba(50, 49, 45, 0.4);
   --rec-display: none;
+  --link-color: #353430;
+  --section-title-color: #353430;
+  --title-decor-color: #353430;
+  --button-active-color: #353430;
+  --focus-visible-color: #353430;
+  --menu-button-color: #353430;
+  --dz-color: #353430;
 }
 
 @media (prefers-color-scheme: light) {
@@ -23,5 +30,12 @@
     --title-color: #ffc2e6;
     --button-hover-color: rgba(50, 49, 45, 0.4);
     --rec-display: none;
+    --link-color: #353430;
+    --section-title-color: #353430;
+    --title-decor-color: #353430;
+    --button-active-color: #353430;
+    --focus-visible-color: #353430;
+    --menu-button-color: #353430;
+    --dz-color: #353430;
   }
 }

@@ -13,4 +13,10 @@
   --link-color: #f1b2ce;
   --button-hover-color: rgba(255, 0, 112, 0.4);
   --rec-display: block;
+  --section-title-color: #ff0070;
+  --title-decor-color: #000028;
+  --button-active-color: #ff0070;
+  --focus-visible-color: #ff0070;
+  --menu-button-color: #ff0070;
+  --dz-color: #ff0070;
 }

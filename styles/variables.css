@@ -18,4 +18,11 @@
   --font-size: 18px;
   --line-height: 1.3;
   --header-gap: 40px;
+  --title-decor-color: #000028;
+  --button-active-color: #ff0070;
+  --focus-visible-color: #ff0070;
+  --menu-button-color: #ff0070;
+  --dz-color: #ff0070;
+  --section-title-color: #ff0070;
+  --link-hover-focus: #f1b2ce;
 }

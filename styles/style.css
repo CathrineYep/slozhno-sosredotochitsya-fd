@@ -187,11 +187,11 @@
 }
 
 .link:hover {
-  border-bottom: 1px solid var(--button-hover-color);
+  border-bottom: 1px solid var(--link-hover-focus);
 }
 
 .link:focus-visible {
-  outline: 1px solid var(--link-color);
+  outline: 1px solid var(--link-hover-focus);
 }
 
 .section-gallery {
